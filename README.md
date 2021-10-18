@@ -1,10 +1,36 @@
-- 👋 Hi, I’m Divay Prakash aka @divGGyash
-- 👀 I’m interested in coding and exploring languages
-- 🌱 I’m currently learning pythan
-- 💞️ I’m looking to collaborate on different projects
+![](https://github.com/divGGyash/div_GG_yash/blob/main/ezgif.com-gif-maker.gif)
 
+# My-Intro 🔭
+##  Hi 👋 , I'm Divya and I am form NSEC IT  , 1st year .
 
-<!---
-divGGyash/divGGyash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Basic Details ✨
+
+ **Name** - *Divya Prakash*
+ 
+ 
+ **City** - *Dhanbad*
+ 
+ <img src="https://img.icons8.com/nolan/96/skyscrapers.png"/>
+ 
+ 
+ **College Details :** ✨
+ 
+ <img src="https://img.icons8.com/nolan/96/student-male.png"/>
+ 
+
+ **College Name** - *Netaji Subhas Engineeering College*
+
+**City** - *Kolkata , Goria*
+ 
+ ## **My Skills :** ✨
+ | S.no | Skills|
+ |---|---|
+ |1.| *Java ON BlueJ* |
+ |2.| *Pythan* | 
+ |3.| *MySQL* |
+ 
+ 
+ ## **Courses :** ✨
+ 1. Coursera
+ 
+ ## **Language** 🛎️
